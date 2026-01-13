@@ -26,4 +26,5 @@ database, then displays analytics through a web-based dashboard.
 ├── scripts/
 └── tests/
 
-
+## Architecture Diagram
+![System Architecture](architecture.png)
