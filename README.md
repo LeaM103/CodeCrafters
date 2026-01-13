@@ -28,3 +28,5 @@ database, then displays analytics through a web-based dashboard.
 
 ## Architecture Diagram
 ![System Architecture](architecture.png)
+
+
