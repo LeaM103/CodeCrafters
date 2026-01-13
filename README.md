@@ -29,4 +29,9 @@ database, then displays analytics through a web-based dashboard.
 ## Architecture Diagram
 ![System Architecture](architecture.png)
 
+## Scrum Board
+Scrum board available at:
+https://github.com/users/LeaM103/projects/1/views/1
+
+
 
