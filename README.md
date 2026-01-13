@@ -5,5 +5,10 @@ Team Setup and Project Planning
 **Members:** .Abatoni M Lea (l.abatoni@alustudent.com)
 
              .Tuyishime Jean de Dieu (j.tuyishime6@alustudent.com)
-
              
+
+## Project Overview
+
+This project processes Mobile Money (MoMo) SMS data provided in XML format.
+The system parses, cleans, categorizes, and stores transaction data in a relational
+database, then displays analytics through a web-based dashboard.
